@@ -1,4 +1,10 @@
-
+    body {
+    background-color: black;
+    color: white;
+    background-image: url("./assets/images/JS-P1.jpg");
+    background-position: 50%;
+    background-size: 90%;
+  }
 
    .jumbotron {
     box-sizing: border-box;
@@ -18,7 +24,7 @@
   }
   
   .answer:hover {
-    background: pink;
+    background:rgb(5, 187, 248);
   }
   
   .answer {
@@ -46,11 +52,4 @@
     margin-top: 40px;
   }
   
-  body {
-    background-color: black;
-    color: white;
-    background-image: url("/assets/images/game_of_thrones_season_7_winter_has_come-wallpaper-1920x1200.jpg");
-    background-repeat: no-repeat;
-    background-position: 50%;
-    background-size: 90%;
-  }
+  
