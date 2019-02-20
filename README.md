@@ -1,2 +1,2 @@
 # TriviaGame
-Live Link 
+Live Link https://hamayonhussain.github.io/TriviaGame/
